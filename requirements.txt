@@ -1,0 +1,15 @@
+youtube-transcript-api
+langchain
+langchain-openai
+langchain-community
+faiss-cpu
+openai
+tiktoken
+streamlit
+sentence-transformers
+numpy
+scikit-learn
+requests
+jsonpatch
+langchain_huggingface
+chromadb
